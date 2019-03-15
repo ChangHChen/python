@@ -1,0 +1,8 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/06 (6.01)/7.py"
+[1, 1, 1, 1, 1]	==> True
+[1, 1, 1, 1, 1, 0]	==> False
+[-1, -1, -1, -1]	==> True
+['abc', 'abc', 'abc']	==> True
+[5, 5, 5, 4, 5]	==> False
+
+Process finished with exit code 0

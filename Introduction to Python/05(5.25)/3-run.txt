@@ -1,0 +1,12 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe D:/PyCharm/Programming/05(5.25)/3.py
+x:5
+y:3
+xの二乗 + yの二乗 = 34
+
+x:1
+y:2
+xの二乗 + yの二乗 = 5
+
+x:7
+y:8
+xの二乗 + yの二乗 = 113

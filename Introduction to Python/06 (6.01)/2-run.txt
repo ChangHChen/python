@@ -1,0 +1,12 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/06 (6.01)/2.py"
+#
+##
+###
+####
+#####
+####
+###
+##
+#
+
+Process finished with exit code 0

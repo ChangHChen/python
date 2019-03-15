@@ -1,0 +1,7 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe "D:/PyCharm/Programming/07 (6.08)/1.py"
+**今日のオススメは**
+[Books] 「白夜行 by 東野　圭吾」
+[Books] 「ZOO by 乙一」
+[Books] 「ドグラ・マグラ by 夢野　久作」
+
+Process finished with exit code 0

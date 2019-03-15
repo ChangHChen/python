@@ -1,0 +1,36 @@
+/usr/local/bin/python3.6 "/home/c/a18/a18ca303/PycharmProjects/Programming/final task/6.py"
+all words appeared after the word 'the':
+night
+day
+foul
+secrets
+fretful
+best
+thoughts
+fat
+whole
+serpent
+power
+will
+vow
+morning
+afternoon
+porches
+leperous
+natural
+body
+thin
+blossoms
+royal
+glow-worm
+matin
+table
+book
+grave
+right
+cellarage
+oath
+earth
+time
+
+Process finished with exit code 0

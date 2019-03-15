@@ -1,0 +1,5 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe "D:/PyCharm/Programming/final task/7.py"
+3桁の整数2つを掛けて得られる積が回文数となるもののうち最大の値は：
+906609 (913*993)
+
+Process finished with exit code 0

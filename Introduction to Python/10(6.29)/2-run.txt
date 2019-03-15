@@ -1,0 +1,29 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe D:/PyCharm/Programming/10(6.29)/2.py
+a ... 619
+b ... 103
+c ... 131
+d ... 353
+e ... 924
+f ... 193
+g ... 153
+h ... 524
+i ... 556
+j ... 7
+k ... 77
+l ... 377
+m ... 266
+n ... 518
+o ... 752
+p ... 100
+q ... 4
+r ... 518
+s ... 493
+t ... 838
+u ... 291
+v ... 79
+w ... 222
+x ... 6
+y ... 226
+z ... 3
+
+Process finished with exit code 0

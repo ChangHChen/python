@@ -1,0 +1,6 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe "D:/PyCharm/Programming/07 (6.08)/2.py"
+[Reg_polygon] 辺の数：3,　辺の長さ：20, 周囲の長さは:60
+[Reg_polygon] 辺の数：4,　辺の長さ：25, 周囲の長さは:100
+[Reg_polygon] 辺の数：5,　辺の長さ：20, 周囲の長さは:100
+
+Process finished with exit code 0

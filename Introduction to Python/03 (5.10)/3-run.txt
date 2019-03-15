@@ -1,0 +1,19 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/03 (5.10)/3.py"
+どこから：2
+どこまで：1
+誤りがあり、改めて入力してくだいさい
+どこから：-2
+どこまで：5
+誤りがあり、改めて入力してくだいさい
+どこから：2
+どこまで：7
+誤りがあり、改めて入力してくだいさい
+どこから：1
+どこまで：5
+1 美章園
+2 南田辺
+3 鶴ヶ丘
+4 長居
+5 我孫子町
+
+Process finished with exit code 0

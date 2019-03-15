@@ -1,0 +1,4 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe D:/PyCharm/Programming/10(6.29)/1.py
+https://www.ips.media.osaka-cu.ac.jp/?page_id=180 の内容に、見出しの数は 13 行ありました
+
+Process finished with exit code 0

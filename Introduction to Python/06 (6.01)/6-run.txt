@@ -1,0 +1,6 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/06 (6.01)/6.py"
+Suzuki Taro：16
+Yamada Hanako：23
+Tanaka Ichiro：16
+
+Process finished with exit code 0

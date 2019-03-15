@@ -1,0 +1,11 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/03 (5.10)/1.py"
+先頭は red
+後ろから二番目は brown
+1 番目の色は red
+2 番目の色は grey
+3 番目の色は blue
+4 番目の色は yellow
+5 番目の色は brown
+6 番目の色は silver
+
+Process finished with exit code 0

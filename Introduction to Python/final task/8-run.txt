@@ -1,0 +1,4 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe "D:/PyCharm/Programming/final task/8.py"
+1から20までのすべての整数で割りきれる最小の数は：232792560
+
+Process finished with exit code 0

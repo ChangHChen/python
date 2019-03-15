@@ -1,0 +1,548 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe "D:/PyCharm/Programming/final task/10.py"
+**** welcome to BlackJack table ****
+6 decks of cards have been shuffled
+how much is the set up money?
+0
+set up money must be positive, try again: 2000
+how many players am I facing?(1-7)
+8
+error, try again(1-7): 3
+** this is game <1>, there are 312 cards remains **
+<Euler> is owning $2000
+how much does <Euler> bet?
+1000
+<Euler> made a bet of $1000
+
+<Gauss> is owning $2000
+how much does <Gauss> bet?
+1100
+<Gauss> made a bet of $1100
+
+<Galois> is owning $2000
+how much does <Galois> bet?
+500
+<Galois> made a bet of $500
+
+House : [Facing Down] [Black 8]
+<Euler> is holding:
+[Diamond 4]
+[Black 5]
+9
+
+would <Euler> like to double down? y/n
+n
+what would <Euler> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Euler> is holding:
+[Diamond 4]
+[Black 5]
+[Black 5]
+14
+
+what would <Euler> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Euler> is holding:
+[Diamond 4]
+[Black 5]
+[Black 5]
+[Black 9]
+23
+
+Bust
+<Euler> lost, <Euler> is owning $1000 now
+
+House : [Facing Down] [Black 8]
+<Gauss> is holding:
+[Red 5]
+[Black 3]
+8
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Gauss> is holding:
+[Red 5]
+[Black 3]
+[Red 3]
+11
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Gauss> is holding:
+[Red 5]
+[Black 3]
+[Red 3]
+[Red 4]
+15
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Gauss> is holding:
+[Red 5]
+[Black 3]
+[Red 3]
+[Red 4]
+[Black 7]
+22
+
+Bust
+<Gauss> lost, <Gauss> is owning $900 now
+
+House : [Facing Down] [Black 8]
+<Galois> is holding:
+[Black 3]
+[Diamond A]
+14
+
+would <Galois> like to double down? y/n
+y
+<Galois> is holding:
+[Black 3]
+[Diamond A]
+[Red A]
+15
+
+<House> is holding:
+[Red 9]
+[Black 8]
+17
+
+House 17
+Galois 15
+<Galois> lost, <Galois> is owning $1000 now
+
+** this is game <2>, there are 298 cards remains **
+<Euler> is owning $1000
+how much does <Euler> bet?
+500
+<Euler> made a bet of $500
+
+<Gauss> is owning $900
+how much does <Gauss> bet?
+300
+<Gauss> made a bet of $300
+
+<Galois> is owning $1000
+how much does <Galois> bet?
+600
+<Galois> made a bet of $600
+
+House : [Facing Down] [Black 7]
+<Euler> is holding:
+[Diamond 10]
+[Black 8]
+18
+
+would <Euler> like to double down? y/n
+n
+what would <Euler> do?('h' for hit, 's' for stand, 'sur' for surrender)
+s
+House : [Facing Down] [Black 7]
+<Gauss> is holding:
+[Black 7]
+[Club 5]
+12
+
+would <Gauss> like to double down? y/n
+y
+<Gauss> is holding:
+[Black 7]
+[Club 5]
+[Club 5]
+17
+
+House : [Facing Down] [Black 7]
+<Galois> is holding:
+[Club 9]
+[Black 6]
+15
+
+what would <Galois> do?('h' for hit, 's' for stand, 'sur' for surrender)
+sur
+<Galois> surrendered, <Galois> is owning $700 now
+
+<House> is holding:
+[Black 9]
+[Black 7]
+16
+
+<House> took one more card
+<House> is holding:
+[Black 9]
+[Black 7]
+[Red 3]
+19
+
+House 19
+Euler 18
+<Euler> lost, <Euler> is owning $500 now
+
+Gauss 17
+<Gauss> lost, <Gauss> is owning $300 now
+
+** this is game <3>, there are 288 cards remains **
+<Euler> is owning $500
+how much does <Euler> bet?
+200
+<Euler> made a bet of $200
+
+<Gauss> is owning $300
+how much does <Gauss> bet?
+150
+<Gauss> made a bet of $150
+
+<Galois> is owning $700
+how much does <Galois> bet?
+350
+<Galois> made a bet of $350
+
+House : [Facing Down] [Diamond A]
+<Euler> is holding:
+[Black 10]
+[Red 6]
+16
+
+would <Euler> like to double down? y/n
+n
+what would <Euler> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Euler> is holding:
+[Black 10]
+[Red 6]
+[Red Q]
+26
+
+Bust
+<Euler> lost, <Euler> is owning $300 now
+
+House : [Facing Down] [Diamond A]
+<Gauss> is holding:
+[Diamond 2]
+[Diamond A]
+13
+
+would <Gauss> like to double down? y/n
+y
+<Gauss> is holding:
+[Diamond 2]
+[Diamond A]
+[Red 7]
+20
+
+House : [Facing Down] [Diamond A]
+<Galois> is holding:
+[Club 5]
+[Club 8]
+13
+
+would <Galois> like to double down? y/n
+n
+what would <Galois> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Galois> is holding:
+[Club 5]
+[Club 8]
+[Diamond 5]
+18
+
+what would <Galois> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Galois> is holding:
+[Club 5]
+[Club 8]
+[Diamond 5]
+[Club K]
+28
+
+Bust
+<Galois> lost, <Galois> is owning $350 now
+
+<House> is holding:
+[Black 9]
+[Diamond A]
+20
+
+House 20
+Gauss 20
+<Gauss> got a drew, <Gauss> is owning $300 now
+
+** this is game <4>, there are 276 cards remains **
+<Euler> is owning $300
+how much does <Euler> bet?
+150
+<Euler> made a bet of $150
+
+<Gauss> is owning $300
+how much does <Gauss> bet?
+200
+<Gauss> made a bet of $200
+
+<Galois> is owning $350
+how much does <Galois> bet?
+100
+<Galois> made a bet of $100
+
+House : [Facing Down] [Red 3]
+<Euler> is holding:
+[Club Q]
+[Black 3]
+13
+
+would <Euler> like to double down? y/n
+y
+<Euler> is holding:
+[Club Q]
+[Black 3]
+[Black 2]
+15
+
+House : [Facing Down] [Red 3]
+<Gauss> is holding:
+[Diamond 2]
+[Black 7]
+9
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Gauss> is holding:
+[Diamond 2]
+[Black 7]
+[Diamond J]
+19
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+s
+House : [Facing Down] [Red 3]
+<Galois> is holding:
+[Black K]
+[Red Q]
+20
+
+would <Galois> like to double down? y/n
+n
+what would <Galois> do?('h' for hit, 's' for stand, 'sur' for surrender)
+s
+<House> is holding:
+[Diamond K]
+[Red 3]
+13
+
+<House> took one more card
+<House> is holding:
+[Diamond K]
+[Red 3]
+[Club 10]
+23
+
+<House> busted, all the players left win
+<Euler> won, <Euler> is owning $600 now
+
+<Gauss> won, <Gauss> is owning $500 now
+
+<Galois> won, <Galois> is owning $450 now
+
+** this is game <5>, there are 265 cards remains **
+<Euler> is owning $600
+how much does <Euler> bet?
+300
+<Euler> made a bet of $300
+
+<Gauss> is owning $500
+how much does <Gauss> bet?
+400
+<Gauss> made a bet of $400
+
+<Galois> is owning $450
+how much does <Galois> bet?
+200
+<Galois> made a bet of $200
+
+House : [Facing Down] [Club A]
+<Euler> is holding:
+[Red 6]
+[Club K]
+16
+
+would <Euler> like to double down? y/n
+n
+what would <Euler> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Euler> is holding:
+[Red 6]
+[Club K]
+[Red K]
+26
+
+Bust
+<Euler> lost, <Euler> is owning $300 now
+
+House : [Facing Down] [Club A]
+<Gauss> is holding:
+[Red 2]
+[Red 2]
+4
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+sur
+<Gauss> surrendered, <Gauss> is owning $300 now
+
+House : [Facing Down] [Club A]
+<Galois> is holding:
+[Diamond 9]
+[Diamond 5]
+14
+
+would <Galois> like to double down? y/n
+y
+<Galois> is holding:
+[Diamond 9]
+[Diamond 5]
+[Black K]
+24
+
+Bust
+<Galois> lost, <Galois> is owning $50 now
+
+no player left, start next round
+
+** this is game <6>, there are 255 cards remains **
+<Euler> is owning $300
+how much does <Euler> bet?
+3000
+not enough money, try again:300
+<Euler> made a bet of $300
+
+<Gauss> is owning $300
+how much does <Gauss> bet?
+300
+<Gauss> made a bet of $300
+
+<Galois> is owning $50
+how much does <Galois> bet?
+25
+<Galois> made a bet of $25
+
+House : [Facing Down] [Black 7]
+<Euler> is holding:
+[Diamond 6]
+[Red 7]
+13
+
+what would <Euler> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Euler> is holding:
+[Diamond 6]
+[Red 7]
+[Club 6]
+19
+
+what would <Euler> do?('h' for hit, 's' for stand, 'sur' for surrender)
+s
+House : [Facing Down] [Black 7]
+<Gauss> is holding:
+[Red Q]
+[Red A]
+21
+
+Blackjack
+<Gauss> got a Blackjack, <Gauss> is owning $900 now
+
+House : [Facing Down] [Black 7]
+<Galois> is holding:
+[Club 2]
+[Red 8]
+10
+
+would <Galois> like to double down? y/n
+y
+<Galois> is holding:
+[Club 2]
+[Red 8]
+[Black 4]
+14
+
+<House> is holding:
+[Club 2]
+[Black 7]
+9
+
+<House> took one more card
+<House> is holding:
+[Club 2]
+[Black 7]
+[Red 5]
+14
+
+<House> took one more card
+<House> is holding:
+[Club 2]
+[Black 7]
+[Red 5]
+[Diamond 7]
+21
+
+House 21
+Euler 19
+<Euler> lost, <Euler> is owning $0 now
+
+Galois 14
+<Galois> lost, <Galois> is owning $0 now
+
+** this is game <7>, there are 243 cards remains **
+Euler is broken
+Galois is broken
+<Gauss> is owning $900
+how much does <Gauss> bet?
+900
+<Gauss> made a bet of $900
+
+House : [Facing Down] [Red 6]
+<Gauss> is holding:
+[Diamond A]
+[Diamond Q]
+21
+
+Blackjack
+<Gauss> got a Blackjack, <Gauss> is owning $2700 now
+
+no player left, start next round
+
+** this is game <8>, there are 239 cards remains **
+Euler is broken
+Galois is broken
+<Gauss> is owning $2700
+how much does <Gauss> bet?
+2700
+<Gauss> made a bet of $2700
+
+House : [Facing Down] [Black Q]
+<Gauss> is holding:
+[Black 5]
+[Diamond 10]
+15
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+h
+<Gauss> is holding:
+[Black 5]
+[Diamond 10]
+[Red 4]
+19
+
+what would <Gauss> do?('h' for hit, 's' for stand, 'sur' for surrender)
+s
+<House> is holding:
+[Club J]
+[Black Q]
+20
+
+House 20
+Gauss 19
+<Gauss> lost, <Gauss> is owning $0 now
+
+** this is game <9>, there are 234 cards remains **
+Euler is broken
+Gauss is broken
+Galois is broken
+everyone is broken, time for bed
+
+Process finished with exit code 0

@@ -1,0 +1,33 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe D:/PyCharm/Programming/05(5.25)/7.py
+278
+639
+710
+854
+182
+862
+420
+956
+508
+689
+402
+888
+609
+811
+777
+645
+378
+420
+999
+424
+499
+479
+636
+903
+665
+638
+777
+517
+458
+883
+
+Process finished with exit code 0

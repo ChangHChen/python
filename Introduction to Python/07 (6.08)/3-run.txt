@@ -1,0 +1,15 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe "D:/PyCharm/Programming/07 (6.08)/3.py"
+*** Enter "result" to show result ***
+Enter "up" or "down" to count:up
+Enter "up" or "down" to count:up
+Enter "up" or "down" to count:dowm
+error try again
+Enter "up" or "down" to count:down
+Enter "up" or "down" to count:up
+Enter "up" or "down" to count:uo
+error try again
+Enter "up" or "down" to count:up
+Enter "up" or "down" to count:result
+[Counter] カウンタの値：3
+
+Process finished with exit code 0

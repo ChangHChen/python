@@ -1,0 +1,5 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe "D:/PyCharm/Programming/03 (5.10)/5.py"
+matrix = [[75, 51, 61, 61, 81], [68, 39, 14, 17, 15], [48, 51, 351, 15, 1], [15, 32, 16, 14, 60]]
+result = [206, 173, 442, 107, 157]
+
+Process finished with exit code 0

@@ -1,0 +1,19 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/06 (6.01)/5.py"
+***名前に”END”を入力したら、終了する***
+名前を入力してください：Suzuki Taro
+勤務時間を入力してください：6
+名前を入力してください：Yamada Hanako
+勤務時間を入力してください：13
+名前を入力してください：Tanaka Ichiro
+勤務時間を入力してください：9
+名前を入力してください：Yamada Hanako
+勤務時間を入力してください：5
+名前を入力してください：Tanaka Ichiro
+勤務時間を入力してください：7
+名前を入力してください：Suzuki Taro
+勤務時間を入力してください：10
+名前を入力してください：Yamada Hanako
+勤務時間を入力してください：5
+名前を入力してください：END
+
+Process finished with exit code 0

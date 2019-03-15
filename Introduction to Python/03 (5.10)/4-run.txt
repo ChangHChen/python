@@ -1,0 +1,27 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/03 (5.10)/4.py"
+*ｙを入力すると、次へ進む*
+xの項目：51
+xの項目：51
+xの項目：362
+xの項目：69
+xの項目：5
+xの項目：5
+xの項目：6
+xの項目：95
+xの項目：y
+x = [51, 51, 362, 69, 5, 5, 6, 95]
+*ENDを入力すると、次へ進む*
+yの項目：25
+yの項目：1
+yの項目：5
+yの項目：45
+yの項目：6
+yの項目：2
+yの項目：35
+yの項目：1
+yの項目：45
+yの項目：END
+y = [25, 1, 5, 45, 6, 2, 35, 1, 45]
+z = [51, 362, 69, 5, 6, 95, 25, 1, 45, 2, 35]
+
+Process finished with exit code 0

@@ -1,0 +1,6 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe D:/PyCharm/Programming/10(6.29)/4.py
+最も長い単語は：['unproportioned']である
+一単語当たりの平均の文字数は：4.18である
+定冠詞'the'は43回出現している
+
+Process finished with exit code 0

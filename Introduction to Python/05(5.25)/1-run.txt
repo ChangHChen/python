@@ -1,0 +1,13 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python /home/c/a18/a18ca303/PycharmProjects/Programming/05(5.25)/1.py
+ 1番の乱数: 808
+ 2番の乱数: 778
+ 3番の乱数: 687
+ 4番の乱数: 729
+ 5番の乱数: 728
+ 6番の乱数: 268
+ 7番の乱数: 941
+ 8番の乱数: 677
+ 9番の乱数: 225
+10番の乱数: 939
+
+Process finished with exit code 0

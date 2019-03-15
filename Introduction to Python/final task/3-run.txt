@@ -1,0 +1,14 @@
+/usr/local/bin/python3.6 "/home/c/a18/a18ca303/PycharmProjects/Programming/final task/3.py"
+最初と最後の文字が同じ単語について，最初の文字(a, b, c, ...)毎に個数は：
+a : 10
+d : 4
+e : 2
+h : 2
+i : 9
+n : 1
+o : 1
+r : 1
+s : 1
+t : 13
+
+Process finished with exit code 0

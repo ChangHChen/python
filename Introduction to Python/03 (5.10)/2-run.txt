@@ -1,0 +1,16 @@
+/home/c/a18/a18ca303/PycharmProjects/Programming/venv/bin/python "/home/c/a18/a18ca303/PycharmProjects/Programming/03 (5.10)/2.py"
+キーを入力してください:here
+値を入力してくだいさい:earth
+キーを入力してください:there
+値を入力してくだいさい:moon
+キーを入力してください:home
+値を入力してくだいさい:gone
+キーを入力してください:universe
+値を入力してくだいさい:42
+キーを入力してください:END
+here earth
+there moon
+home gone
+universe 42
+
+Process finished with exit code 0

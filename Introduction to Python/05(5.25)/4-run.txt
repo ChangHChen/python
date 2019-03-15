@@ -1,0 +1,11 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe D:/PyCharm/Programming/05(5.25)/4.py
+x:-5.9
+の絶対値は：5.9
+x:15.39
+の絶対値は：15.39
+x:0
+の絶対値は：0.0
+x:64
+の絶対値は：64.0
+x:-523
+の絶対値は：523.0

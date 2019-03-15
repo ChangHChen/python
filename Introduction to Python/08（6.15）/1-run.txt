@@ -1,0 +1,9 @@
+D:\PyCharm\Programming\venv\Scripts\python.exe D:/PyCharm/Programming/08（6.15）/1.py
+Triangle
+周囲の長さ：30
+面積43.30
+Square
+周囲の長さ：40
+面積100.00
+
+Process finished with exit code 0
